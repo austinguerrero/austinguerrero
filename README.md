@@ -1,4 +1,4 @@
-# Hi, I'm Austin Guerrero 👋
+# Hi, I'm Austin Guerrero!
 Electrical engineering student at **Valparaiso University** (Christ Honors College), transferred from Purdue. I work in digital logic, circuit analysis, FPGA/RTL design, and undergraduate research in robotic cybersecurity and volumetric additive manufacturing. Seeking a **Summer 2027** electrical or hardware engineering internship.
 
 🌐 [austinguerrero.dev](https://austinguerrero.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/guerrero-austin) · ✉️ austin.guerrero@valpo.edu
